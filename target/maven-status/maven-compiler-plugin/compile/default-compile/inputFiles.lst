@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 C:\Users\Shenali\sonarqube-lab02\src\main\java\com\example\App.java
 C:\Users\Shenali\sonarqube-lab02\src\main\java\com\example\Calculator.java
 C:\Users\Shenali\sonarqube-lab02\src\main\java\com\example\UserService.java
+=======
+C:\Users\Shenali\Documents\GitHub\sonarqube-lab02\src\main\java\com\example\App.java
+C:\Users\Shenali\Documents\GitHub\sonarqube-lab02\src\main\java\com\example\Calculator.java
+C:\Users\Shenali\Documents\GitHub\sonarqube-lab02\src\main\java\com\example\UserService.java
+>>>>>>> 3e1623e25a09d0126bb625c0f3e26fda4804a111
